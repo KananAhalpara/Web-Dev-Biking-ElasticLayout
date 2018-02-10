@@ -1,7 +1,7 @@
 # Web-Dev-Biking-ElasticLayout
 Web Development assignment 2- elastic layout
 <br><br>
-
+Your site is ready to be published at https://kananahalpara.github.io/Web-Dev-Biking-ElasticLayout/.
 <br><br>
 ASSIGNMENT : AS FOLLOWS: 
 <br>
